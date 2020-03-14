@@ -9,7 +9,7 @@ Material for the 2-day SAV block course "Deep Learning with Actuarial Applicatio
 - Experience in basic R programming, i.e. familiar with tidyverse, ggplot2 and base package (Hint: you should already know how to fit a glm in R)
 - Participants need to bring their own laptop. It is an advantage to have R/RStudio installed lo-cally, but not required to do the exercises.
 
-Topics:
+### Topics:
 - Topic 1: Recap: Generalized Linear Models
 - Topic 2: Feedforward Neural Networks
 - Topic 3: Combined Actuarial and Neural Network Models
