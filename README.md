@@ -16,3 +16,10 @@ Material for the 2-day SAV block course "Deep Learning with Actuarial Applicatio
 - Topic 4: Recurrent Neural Networks
 - Topic 5: Unsupervised Learning
 - Topic 6: Non-discriminatory Insurance Pricing
+
+### References
+Please find below links for supporting literature:
+- "Keras", RStudio, https://keras.rstudio.com/
+- "Deep Learning with Keras :: CHEAT SHEET", RStudio, https://github.com/rstudio/cheatsheets/raw/master/keras.pdf
+- "CASdatasets Package Vignette", Reference Manual (http://cas.uqam.ca/)
+- "Actuarial Data Science", Swiss Association of Actuaries, https://www.actuarialdatascience.org
