@@ -1,5 +1,5 @@
-# Deep Learning with Actuarial Applications in R, Zurich 2020
-Material for the 2-day SAV block course "Deep Learning with Actuarial Applications in R", taking place on 18th/19th June in Zürich.
+# Deep Learning with Actuarial Applications in R
+Material for the 2-day block course "Deep Learning with Actuarial Applications in R" of the [Swiss Association of Actuaries](www.actuaries.ch).
 - Programme: https://www.actuaries.ch/de/downloads/aid!90833b8c-0384-4bc9-ae7b-7824db589a7a/id!132/SAV_Blockkurs_Ausschreibung_def_05032020.pdf.
 - Registration: https://www.actuaries.ch/de/kurs/block_course_deep_learning_with_actuarial_applications_in_r/ereig!3752/
 
@@ -14,8 +14,9 @@ Material for the 2-day SAV block course "Deep Learning with Actuarial Applicatio
 - Topic 2: Feedforward Neural Networks
 - Topic 3: Combined Actuarial and Neural Network Models
 - Topic 4: Recurrent Neural Networks
-- Topic 5: Unsupervised Learning
-- Topic 6: Non-discriminatory Insurance Pricing
+- Topic 5: Convolutional Neural Networks
+- Topic 6: Unsupervised Learning
+- Topic 7: Non-discriminatory Insurance Pricing
 
 ### References
 Please find below links for supporting literature:
