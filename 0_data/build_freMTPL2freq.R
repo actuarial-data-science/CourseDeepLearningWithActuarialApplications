@@ -29,4 +29,4 @@ freMTPL2freq <- dat
 
 str(freMTPL2freq)
 
-save(freMTPL2freq,file="C://Users/juerg/AktuarDataScience/Blockkurs/2021/Exercises/Development/freMTPL2freq.RData")
+save(freMTPL2freq,file="path_to_file/freMTPL2freq.RData")
