@@ -9,11 +9,10 @@ Material for the 2-day block course "Deep Learning with Actuarial Applications i
 ### Topics:
 - Topic 1: Recap: Generalized Linear Models
 - Topic 2: Feedforward Neural Networks
-- Topic 3: Combined Actuarial and Neural Network Models
-- Topic 4: Recurrent Neural Networks
+- Topic 3: Discrimination-Free Insurance Pricing
+- Topic 4: LocalGLMnet
 - Topic 5: Convolutional Neural Networks
-- Topic 6: Unsupervised Learning
-- Topic 7: Non-discriminatory Insurance Pricing
+
 
 ### References
 Please find below links for supporting literature:
