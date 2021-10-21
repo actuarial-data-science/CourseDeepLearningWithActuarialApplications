@@ -1,4 +1,5 @@
-Theory: Chapter 1 GLM.pdf
+Theory: 
+  - Chapter 1 GLM.pdf
 
 Exercises:
   - 1_desc.Rmd
