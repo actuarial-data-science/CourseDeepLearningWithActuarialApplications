@@ -15,6 +15,7 @@ Course material of the block course "Deep Learning with Actuarial Applications i
 
 ### References
 Please find below links for supporting literature:
+- "Actuarial Data Science", Swiss Association of Actuaries, https://www.actuarialdatascience.org
 - "Keras", RStudio, https://keras.rstudio.com/
 - "Deep Learning with Keras :: CHEAT SHEET", RStudio, https://github.com/rstudio/cheatsheets/raw/master/keras.pdf
-- "Actuarial Data Science", Swiss Association of Actuaries, https://www.actuarialdatascience.org
+
