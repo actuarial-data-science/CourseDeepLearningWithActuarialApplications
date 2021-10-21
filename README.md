@@ -4,12 +4,12 @@ Course material of the block course "Deep Learning with Actuarial Applications i
 - Complete code of the exercises in .R,.html,.rmd
 
 ### Topics:
-- Topic 1: Recap: Generalized Linear Models
-- Topic 2: Feedforward Neural Networks
-- Topic 3: Discrimination-Free Insurance Pricing
-- Topic 4: LocalGLMnet
-- Topic 5: Convolutional Neural Networks
-- Topic 6: Recurrent Neural Networks
+- Topic 1: Recap: Generalized Linear Models (glm)
+- Topic 2: Feedforward Neural Networks (fnn)
+- Topic 3: Discrimination-Free Insurance Pricing (dfp)
+- Topic 4: LocalGLMnet (lgn)
+- Topic 5: Convolutional Neural Networks (cnn)
+- Topic 6: Recurrent Neural Networks (rnn)
 
 ### References
 Please find below links for supporting literature:
