@@ -2,7 +2,7 @@
 Course material of the block course "Deep Learning with Actuarial Applications in R" of the [Swiss Association of Actuaries](www.actuaries.ch), held in 2020 and 2021 in Zurich. The course material consists of:
 - Slides for the theoretical part
 - Complete code of the exercises in .R,.html,.Rmd, .ipynb
-- data used in the exercises (0_data)
+- Data used in the exercises (0_data)
 - Introduction to keras (0_keras)
 
 ### Topics:
