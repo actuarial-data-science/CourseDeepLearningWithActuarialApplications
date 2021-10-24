@@ -6,7 +6,7 @@ Course material of the block course "Deep Learning with Actuarial Applications i
 - Introduction to keras (0_keras)
 
 ### Topics:
-- Topic 1: Recap: Generalized Linear Models (glm)
+- Topic 1: Generalized Linear Models (glm)
 - Topic 2: Feed-forward Neural Networks (fnn)
 - Topic 3: Discrimination-Free Insurance Pricing (dfp)
 - Topic 4: LocalGLMnet (lgn)
