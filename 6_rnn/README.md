@@ -3,3 +3,4 @@ Theory:
 
 Exercises:
   - 6_rnn.Rmd
+  - [6_rnn.html](https://htmlpreview.github.io/?https://github.com/JSchelldorfer/ActuarialDataScience/blob/master/6%20-%20Lee%20and%20Carter%20go%20Machine%20Learning%20Recurrent%20Neural%20Networks/CHEmort_rnn.html)
