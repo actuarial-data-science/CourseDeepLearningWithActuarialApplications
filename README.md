@@ -16,7 +16,7 @@ Course material of the block course "Deep Learning with Actuarial Applications i
 ### Download:
 To download all the material in .zip file, press the green button "Code" at the top right of this page and select "Download ZIP".
 
-### References
+### References:
 Please find below links for supporting literature:
 - "Actuarial Data Science", Swiss Association of Actuaries, https://www.actuarialdatascience.org
 - "Keras", RStudio, https://keras.rstudio.com/
