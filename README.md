@@ -13,6 +13,9 @@ Course material of the block course "Deep Learning with Actuarial Applications i
 - Topic 5: Convolutional Neural Networks (cnn)
 - Topic 6: Recurrent Neural Networks (rnn)
 
+### Download:
+To download all the material in .zip file, press the green button "Code" and select "Download ZIP".
+
 ### References
 Please find below links for supporting literature:
 - "Actuarial Data Science", Swiss Association of Actuaries, https://www.actuarialdatascience.org
