@@ -1,6 +1,6 @@
 # Deep Learning with Actuarial Applications in R
 Course material of the block course "Deep Learning with Actuarial Applications in R" of the [Swiss Association of Actuaries](www.actuaries.ch), held in 2020 and 2021 in Zurich. The course material consists of:
-- Slides for the theoretical part
+- Slides for the theoretical part ([all in one pdf](https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications/blob/master/DeepLearningWithActuarialApplications.pdf))
 - Complete code of the exercises as .R,.html,.Rmd, .ipynb files
 - Data used in the exercises (0_data)
 - Introduction to keras (0_keras)
