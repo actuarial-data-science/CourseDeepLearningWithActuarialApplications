@@ -14,7 +14,7 @@ Course material of the block course "Deep Learning with Actuarial Applications i
 - Topic 6: Recurrent Neural Networks (rnn)
 
 ### Download:
-To download all the material in .zip file, press the green button "Code" and select "Download ZIP".
+To download all the material in .zip file, press the green button "Code" at the top right of this page and select "Download ZIP".
 
 ### References
 Please find below links for supporting literature:
